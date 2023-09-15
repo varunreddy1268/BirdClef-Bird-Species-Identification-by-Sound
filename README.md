@@ -1,8 +1,8 @@
-# BirdClef 2022 - Bioacoustic Monitoring
+# BirdClef    - Bioacoustic Monitoring
 
 ![BirdClef Logo](birdclef_logo.png)
 
-The BirdClef 2022 project represents a significant leap in bioacoustic monitoring, providing a passive, cost-effective approach to study endangered bird populations through their calls. Leveraging machine learning, our goal is to automate the identification of bird species, a task traditionally dependent on manual annotation and specialized expertise. This project addresses the unique challenge of dealing with rare and endangered species, particularly those found in Hawai'i, where conventional methods face limitations. By conducting thorough data exploration, preprocessing, and implementing a DenseNet architecture for model building, we have created a system capable of reliably classifying bird species with limited training data. Our approach not only demonstrates the potential of deep learning in bioacoustics but also addresses critical conservation needs.
+The BirdClef    project represents a significant leap in bioacoustic monitoring, providing a passive, cost-effective approach to study endangered bird populations through their calls. Leveraging machine learning, our goal is to automate the identification of bird species, a task traditionally dependent on manual annotation and specialized expertise. This project addresses the unique challenge of dealing with rare and endangered species, particularly those found in Hawai'i, where conventional methods face limitations. By conducting thorough data exploration, preprocessing, and implementing a DenseNet architecture for model building, we have created a system capable of reliably classifying bird species with limited training data. Our approach not only demonstrates the potential of deep learning in bioacoustics but also addresses critical conservation needs.
 
 ---
 
