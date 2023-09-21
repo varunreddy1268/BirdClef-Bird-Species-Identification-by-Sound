@@ -28,20 +28,3 @@ The BirdClef    project represents a significant leap in bioacoustic monitoring,
   
 - **Documentation**: Wrote comprehensive documentation in Markdown, including this ReadMe, to provide clear insights into the project structure, methodologies, and results.
 
----
-
-## Future Directions & Improvements:
-
-In the next phases of this project, we envision several potential avenues for enhancement:
-
-1. **Advanced Models**: Explore advanced architectures like transformers to further improve accuracy and robustness in classification tasks.
-
-2. **Augmentation Techniques**: Implement additional augmentation techniques such as Random Power, Mixup, and White/Pink Noise for improved model generalization.
-
-3. **Hyperparameter Tuning**: Continuously fine-tune hyperparameters to optimize model performance based on extensive experimentation.
-
-4. **Community Collaboration**: Foster an open-source community on GitHub for knowledge-sharing, code contributions, and collaborative efforts in bioacoustic monitoring.
-
----
-
-*Note: Insert relevant images, diagrams, or additional sections as needed for your specific project.*
